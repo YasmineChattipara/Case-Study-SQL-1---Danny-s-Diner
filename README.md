@@ -1,5 +1,6 @@
 # Case-Study-SQL-1---Danny-s-Diner
-Danny wants to use the data to answer a few simple questions about his customers
+Danny wants to use the data to answer a few simple questions about his customers.
+
 Each of the following case study questions can be answered using a single SQL statement:
 
 1. What is the total amount each customer spent at the restaurant?
